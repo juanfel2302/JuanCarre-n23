@@ -1,7 +1,8 @@
-# Tu Nombre
+# Juan José Carreón Félix
 
 ## Acerca de Mí
-Breve introducción sobre ti, tu experiencia profesional y áreas de interés.
+Estudiante de la Universidad de Sonora en la carrera de Ingeniería en Sistemas de Información.
+Futuro Ingeniero 😄
 
 ![Tu Foto o Imagen Representativa](https://github.com/juanfel2302/JuanCarre-n23/blob/main/Escudo_Unison.png)
 
