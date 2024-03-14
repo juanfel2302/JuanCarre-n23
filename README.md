@@ -3,7 +3,7 @@
 ## Acerca de Mí
 Breve introducción sobre ti, tu experiencia profesional y áreas de interés.
 
-![Tu Foto o Imagen Representativa](https://github.com/juanfel2302/JuanCarre-n23.git/Escudo_Unison.png)
+![Tu Foto o Imagen Representativa](https://github.com/juanfel2302/JuanCarre-n23/blob/main/Escudo_Unison.png)
 
 
 - 🌱 Actualmente estoy aprendiendo ...
