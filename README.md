@@ -3,6 +3,9 @@
 ## Acerca de Mí
 Breve introducción sobre ti, tu experiencia profesional y áreas de interés.
 
+![Tu Foto o Imagen Representativa]("C:\Users\Juan José Carreón\Pictures\Camera Roll\WIN_20240314_11_12_34_Pro.jpg")
+
+
 - 🌱 Actualmente estoy aprendiendo ...
 - 👯 Estoy buscando colaborar en ...
 - 🤔 Estoy buscando ayuda con ...
